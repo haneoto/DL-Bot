@@ -1,10 +1,10 @@
-﻿import sqlite3
+import sqlite3
 import os
 import glob
 import re
 
 # DetailData.db目录
-DATA_DIR = r'D:\Tool\DouK-Downloader\_internal\Volume\Data'
+DATA_DIR = r'D:\Tool\DouK-Downloader\Volume\Data'
 # txt输出目录
 FINAL_DIR = r'F:\Download'
 # DouK-Downloader 下载文件存储目录（用于确定 txt 文件名）
