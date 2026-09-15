@@ -4,7 +4,7 @@ import sys
 import os
 
 # ---------- 配置区 ----------
-downloader_path = r"D:\Tool\DouK-Downloader\main.exe"
+downloader_path = r"D:\Tool\DouK-Downloader\DouK-Downloader.exe"
 script_path = r"D:\Tool\DouK-Downloader\Script\DetailData2txt.py"
 # ---------------------------
 
